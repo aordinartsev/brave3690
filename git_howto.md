@@ -28,7 +28,7 @@ git log --oneline
 
 Смена commit в ветке репозитория
 ```sh
-git checkout <commit>
+git checkout <branch_name>
 ```
 
 Смена commit на последнее зафиксированное состояние
