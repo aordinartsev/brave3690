@@ -12,7 +12,7 @@ git add
 
 Принять изменения в файле
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 
 ### Журналирование операций в GIT
