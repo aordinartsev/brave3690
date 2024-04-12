@@ -65,3 +65,8 @@ git branch
 ```sh
 git branch <branch_name>
 ```
+
+Объединение веток в master ветку (необходимо в ней находиться)
+```sh
+git merge <branch_name>
+```
