@@ -60,3 +60,8 @@ git diff <commit> <commit>
 ```sh
 git branch
 ```
+
+Созание новой ветки
+```sh
+git branch <branch_name>
+```
