@@ -26,6 +26,11 @@ git log
 git log --oneline
 ```
 
+Краткое журналирование в одну строку с графом по истории изменения веток
+```sh
+git log --oneline --graph
+```
+
 Смена commit в ветке репозитория
 ```sh
 git checkout <branch_name>
